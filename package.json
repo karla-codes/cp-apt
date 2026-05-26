@@ -1,0 +1,16 @@
+{
+  "name": "cp-apt",
+  "version": "1.0.0",
+  "description": "Three.js site featuring CP 2077 Northside apartment",
+  "license": "ISC",
+  "author": "Karla Diaz Walker\\",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "three": "^0.184.0",
+    "vite": "^8.0.14"
+  }
+}
