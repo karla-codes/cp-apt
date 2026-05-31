@@ -18,7 +18,5 @@ export default class Sizes extends EventEmitter {
 
       this.trigger("resize");
     });
-
-    console.log(this);
   }
 }
